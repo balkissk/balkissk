@@ -12,7 +12,7 @@
 
 I’m a **Software Engineering student** at ESPRIT with a strong interest in **full-stack web development** and real-world software engineering practices.
 
-I enjoy building **scalable and intelligent web platforms**, especially using:
+I enjoy building **scalable  web platforms**, especially using:
 - **Angular** for the front-end  
 - **Spring Boot** for the back-end  
 
@@ -34,10 +34,6 @@ I am motivated, detail-oriented, and passionate about learning new technologies 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-### 🤖 AI & Microservices
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%2B%20MMR-orange)
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
