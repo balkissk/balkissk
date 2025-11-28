@@ -1,97 +1,126 @@
 <h1 align="center">👋 Hi, I'm Balkis Sekri</h1>
 
 <p align="center">
-  🎓 Software Architecture Engineering Student  
-  <br/>
-  💻 Full-Stack Developer | Angular & Spring Boot  
-  <br/>
-  🚀 Passionate about building modern and scalable web applications
+  🎓 Software Engineering Student – ESPRIT  
+  
+  🚀 Passionate about Web Development, AI & Cloud Technologies  
 </p>
 
 ---
 
 ## 🌟 About Me
 
-Currently a **Software Engineering student**, I’m passionate about **web development**, especially using  
-**Angular** for the front-end and **Spring Boot** for the back-end.
+I’m a **Software Engineering student** at ESPRIT with a strong interest in **full-stack web development** and real-world software engineering practices.
 
-I’m looking for an **end-of-studies internship (PFE)** where I can apply my full-stack skills and contribute to innovative projects.
+I enjoy building **scalable and intelligent web platforms**, especially using:
+- **Angular** for the front-end  
+- **Spring Boot** for the back-end  
 
----
-
-## 💼 Experience
-
-### 🔹 Summer Internship — *Ziyara Travel* (Juillet 2025)
-**BeeCoders**  
-- Developed a client-side travel booking application  
-- Features: destination search, trip display, reservation management  
-- **Tech:** Angular, TypeScript, HTML/CSS, REST APIs, Spring Boot
+I am motivated, detail-oriented, and passionate about learning new technologies and delivering clean, professional software.
 
 ---
 
-### 🔹 Summer Internship — *Tunisie Télécom* (Juillet 2024)
-- Built an internal web app for managing technical interventions  
-- Contributed to database design & UI improvements  
-- **Tech:** Symfony, PHP, MySQL, HTML/CSS, Bootstrap
+## 🛠️ Tech Stack
 
----
-
-### 🔹 Graduation Internship — ISIMG (Fév – Juin 2023)
-- Designed & developed an educational platform (user management + learning tracking)  
-- **Tech:** React.js, Node.js, Express.js, MongoDB, JWT
-
----
-
-### 🔹 Academic Training — Coding Factory  
-- Designed & developed an educational platform  
-- **Tech:** Angular, TypeScript, Spring Boot, REST APIs
-
----
-
-## 🎓 Education
-
-- 🎓 **Software Engineering – ESPRIT (2025 – en cours)**  
-- 🎓 **Licence informatique & multimédia (2023)**  
-- 🎓 **Baccalauréat sciences expérimentales (2020)**
-
----
-
-## 🛠️ Technical Skills
-
-### 🚀 Programming Languages
-- Java, Python, C, JavaScript, TypeScript, Shell
-
-### 🎨 Frontend
-- Angular, React, HTML, CSS, Bootstrap
+### 🚀 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
-- Spring Boot, Symfony, Node.js, Express.js, .NET, JavaFX
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-### 🗄️ Databases
-- MySQL, SQL, MongoDB (NoSQL)
+### 🤖 AI & Microservices
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%2B%20MMR-orange)
 
-### 🔧 Tools & Methods
-- Git, GitLab  
-- Agile / Scrum  
-- DevOps basics
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-## 🤝 Soft Skills
+# 📌 Featured Projects
+
+## 🔥 1. Ziyara Travel – Travel Management Platform  
+ 
+
+🔗 GitHub: https://github.com/balkissk/ziyara-  
+
+Ziyara Travel is a full web platform for **discovering, booking, and managing trips in Tunisia**, developed using:
+- **Angular 17** (UI / pages / forms / reservations)  
+- **Spring Boot 3** (REST API, security, business logic)  
+- **MySQL** (data storage)  
+- **Flask + Python** (AI recommendation engine TF-IDF + MMR)  
+  
+
+### ✨ Features
+- Authentication + JWT  
+- Travel listing & details  
+- Online booking  
+- Client reservations  
+- Reviews & ratings  
+- Notifications  
+- Smart recommendations (TF-IDF & MMR)  
+- Profile management  
+
+### 🏗 Architecture  
+Multi-service Dockerized architecture:  
+Angular → Spring Boot → MySQL → Flask AI
+
+---
+
+## 🔥 2. Coding Factory – Full-Stack Educational Platform  
+🔗 GitHub: https://github.com/Ameni02/CodingFactory-WebSite  
+
+A full-stack platform created for **training management**, student tracking and content distribution.
+
+### ✨ Features
+- User management  
+- Events & courses  
+- Evaluation system  
+- PFE space  
+- Consulting module  
+- Full CRUD operations  
+
+### 🛠️ Tech Used
+- Angular  
+- Spring Boot  
+- MySQL  
+- Docker  
+- Microservices architecture  
+
+---
+
+# 🎓 Education
+
+- 🎓 **Software Engineering – ESPRIT (2025–present)**  
+- 🎓 **Licence en Informatique & Multimédia (2023)**  
+- 🎓 **Baccalauréat Sciences Expérimentales (2020)**  
+
+---
+
+# 🧩 Soft Skills
 - Communication  
 - Teamwork  
-- Problem-solving  
-- Decision-making  
+- Problem solving  
+- Adaptability  
+- Fast learning  
 
 ---
 
-## 🌐 Languages
-- 🇫🇷 French — B2  
-- 🇬🇧 English — B2  
-
----
-
-## 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balkissk&show_icons=true&theme=radical" height="160"/>
@@ -100,16 +129,17 @@ I’m looking for an **end-of-studies internship (PFE)** where I can apply my fu
 
 ---
 
-## 🌍 Connect With Me
+# 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/Balkis%20Sekri">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and follow my journey as a software engineer!
+  ⭐ Thank you for visiting my profile!  
+  <br/>Feel free to explore my projects or contact me.
 </p>
