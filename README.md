@@ -6,15 +6,17 @@
 
 ## 📌 Featured Projects
 
+### 🔹 Coding Factory
+Educational training management platform.  
+**Tech:** Angular, Spring Boot, MySQL  
+🔗 (https://github.com/balkissk/Coding-Factory)
+
 ### 🔹 Ziyara Travel
 Full-stack travel booking platform .
 **Tech:** Angular, Spring Boot, Flask, MySQL, Docker  
 🔗 https://github.com/balkissk/ziyara-
 
-### 🔹 Coding Factory
-Educational training management platform.  
-**Tech:** Angular, Spring Boot, MySQL  
-🔗 https://github.com/Ameni02/CodingFactory-WebSite
+
 
 ---
 
