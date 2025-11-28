@@ -3,19 +3,11 @@
 🎓 Software Engineering Student – ESPRIT   
 🚀 Passionate about Web Development
 
----
-
-## 🔧 Tech Stack  
-**Frontend:** Angular · TypeScript · HTML/CSS  
-**Backend:** Spring Boot · Java · REST APIs  
-**Tools:** Docker · Git/GitHub · Postman  
-
----
 
 ## 📌 Featured Projects
 
 ### 🔹 Ziyara Travel
-Full-stack travel booking platform with AI recommendations.  
+Full-stack travel booking platform .
 **Tech:** Angular, Spring Boot, Flask, MySQL, Docker  
 🔗 https://github.com/balkissk/ziyara-
 
