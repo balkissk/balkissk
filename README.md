@@ -5,7 +5,7 @@
 
 ### 🌸 About Me  
 - 🎓 I’m a **Software Engineering student at ESPRIT**  
-- 💻 Passionate about **Full-Stack Development** (Angular & Spring Boot)  
+- 💻 Passionate about **Full-Stack Development**  
 - 📧 How to reach me: **sekribalkis2@gmail.com**
 
 ---
